@@ -11,7 +11,7 @@
 </div><br>
 - 🌱 I’m currently learning:
 <div valign="top"><br>
-  <img alt="kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div><br>
 
 
