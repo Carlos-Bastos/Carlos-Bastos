@@ -22,8 +22,8 @@
 <div align="center">
   <a href="https://github.com/Carlos-Bastos">
   <div display="flex">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-Bastos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Bastos&layout=compact&langs_count=7&theme=github_dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-Bastos&show_icons=true&theme=github_dark&include_all_commits=false&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Bastos&layout=compact&langs_count=10&theme=github_dark"/>
   </div>
   
   <img src="https://activity-graph.herokuapp.com/graph?username=Carlos-Bastos&bg_color=000000&color=708090&line=0093FF&point=00ECFF&area=true&hide_border=true" />
