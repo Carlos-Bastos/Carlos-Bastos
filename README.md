@@ -26,6 +26,12 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Bastos&layout=compact&langs_count=7&theme=github_dark"/>
   </div>
   
+  <img src="https://activity-graph.herokuapp.com/graph?username=Carlos-Bastos&bg_color=000000&color=708090&line=00ECFF&point=0093FF&area=true&hide_border=true" />
+
+<div align='center'>
+     <img src="https://github.com/Carlos-Bastos/Carlos-Bastos/blob/output/github-contribution-grid-snake.gif"></img>
+</div>
+  
   
   <div align="center">
   
