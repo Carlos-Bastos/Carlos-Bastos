@@ -25,8 +25,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-Bastos&show_icons=true&theme=github_dark&include_all_commits=false&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Bastos&layout=compact&langs_count=10&theme=github_dark"/>
   </div>
-  
-  <img src="https://activity-graph.herokuapp.com/graph?username=Carlos-Bastos&bg_color=000000&color=708090&line=0093FF&point=00ECFF&area=true&hide_border=true" />
 
 <div align='center'>
      <img src="https://github.com/Carlos-Bastos/Carlos-Bastos/blob/output/github-contribution-grid-snake.gif"></img>
@@ -38,6 +36,8 @@
   ![Snake animation](https://github.com/Carlos-Bastos/Carlos-Bastos/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+  
+  <img src="https://activity-graph.herokuapp.com/graph?username=Carlos-Bastos&bg_color=000000&color=708090&line=0093FF&point=00ECFF&area=true&hide_border=true" />
 
 <div align="center">
   <p>Credits: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> and <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
