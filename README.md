@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi, I’m <a href="https://www.linkedin.com/in/carlos-bastos-299b09b2/"><i>Carlos Bastos</i></a> 👋</h1>
 - 💞️ I’m looking to collaborate on Mobile Development
+
 - 👀 I’m interested in:
 <div valign="top"><br>
   <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
